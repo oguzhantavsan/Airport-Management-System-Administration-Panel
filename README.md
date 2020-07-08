@@ -1,0 +1,2 @@
+# Airport-Management-System-Administration-Panel
+In this project, we created an administration control panel with web pages of an airport database management system that we created the ER diagram at the beginning of this period. With this panel, we were able to add, delete and select data to the tables we created in the database. In this project, I played a big role in the software part since I have knowledge of HTML, CSS, PHP, and SQL.
